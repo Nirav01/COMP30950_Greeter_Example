@@ -1,7 +1,7 @@
 
 class Greeter(name: String):
   def hi =
-    "hello " + name
+    "hi " + name
 
   def bye =
     "bye " + name
